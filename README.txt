@@ -12,3 +12,6 @@ Els tipus d'incidència es mantenen iguals:
 4. espais sobrants i coma decimal vàlida que es pot normalitzar.
 
 IMPORTANT: els CSV ja no són intercanviables directament amb el notebook original, perquè aquest espera els noms producte/categoria/ciutat/unitats/preu_unitari/data. Cal adaptar-hi els noms de camps, les funcions/conversions segons el tipus numèric i els indicadors del negoci de cada CSV. Les regles generals de qualitat es mantenen.
+
+
+
